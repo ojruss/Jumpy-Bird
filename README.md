@@ -1,5 +1,5 @@
 # Jumpy Bird
-Here we having my first game... If you couldn't tell...
+Here we havemy first game... If you couldn't tell...
 
 This is my first adventure into game development! 
 
