@@ -1,7 +1,7 @@
 # Jumpy Bird
 Here we havemy first game... If you couldn't tell...
 
-This is my first adventure into game development! 
+This is my first adventure into game development using Unity!
 
 This is totally an orginal game idea...
 
